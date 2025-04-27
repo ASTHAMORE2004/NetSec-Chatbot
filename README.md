@@ -1,2 +1,12 @@
-# NetSec-Chatbot
-NetSec is a network security chatbot, an AI-powered virtual assistant designed to help manage and enhance the security of a computer network. This chatbot can interact with users through text or voice communication, providing valuable insights, alerts, and solutions to security-related issues.
+# API tester chatbot
+### this will take your api and then tell you wether it is secured and working or not 
+check it out on the deployed link, 
+
+to run in your pc 
+
+clone the repository,
+
+Write in the terminal the following commands :-
+
+npm install
+npm run dev
